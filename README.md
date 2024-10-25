@@ -1,4 +1,4 @@
-##👋 Hello, I'm Usman Javaid
+👋 Hello, I'm Usman Javaid
 I am a Computer Science student at the National University of Sciences and Technology (NUST), Islamabad, Pakistan. My passion for computers inspired me to pursue this field. I enjoy solving challenging problems and building innovative projects that make an impact.
 
 <!--
